@@ -1,0 +1,11 @@
+class Main {
+  public static void main(String[] args)
+   {
+
+        
+      int number1 = 25, number2 = 42, sum;
+      sum = number1 + number2;
+
+      System.out.println("Sum of number1 and number 2 will be: "+sum);
+   }
+}  
