@@ -1,0 +1,16 @@
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int krenare = scan.nextInt();
+        int asli  = scan.nextInt();
+        int krenareasli = scan.nextInt();
+        scan.close();
+
+        System.out.println(krenare);
+        System.out.println(asli);
+        System.out.println(krenareasli);
+    }
+}
