@@ -1,4 +1,4 @@
-//this code calculates the number of handshakes performed from a specific number of students
+//this code calculates the number of handshakes performed by a specific number of students
 import java.util.*;
 public class handshakes
 {
